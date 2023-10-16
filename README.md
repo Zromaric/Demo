@@ -55,7 +55,7 @@ pipeline {
       }
 }
 
-# KUBERNETES INSTALLATION ANS SETUP 3 am see you {URL and Commands}:
+# KUBERNETES INSTALLATION ANS SETUP 3 am see you {URL and Commands} ...:
 
 Docker installation URL:
 
