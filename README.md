@@ -1,4 +1,4 @@
-# CI-CD-PIPELINE-DEMO 2
+# CI-CD-PIPELINE-DEMO 0
 
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
 
